@@ -24,5 +24,5 @@ News Application to know News from differents Fields and search about news.
 <img src = "__Screenshots/1.png" height="400" width="200">  <img src = "__Screenshots/2.png" height="400" width="200">  <img src = "__Screenshots/3.png" height="400" width="200"> 
 
 
-<img src = "__Screenshots/4.png" height="400" width="200">  <img src = "__Screenshots/5.ong" height="400" width="200">  <img src = "__Screenshots/6.png" height="400" width="200">
+<img src = "__Screenshots/4.png" height="400" width="200">  <img src = "__Screenshots/5.png" height="400" width="200">  <img src = "__Screenshots/6.png" height="400" width="200">
 
